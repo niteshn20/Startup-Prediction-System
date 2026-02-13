@@ -22,17 +22,16 @@ This project aims to build a predictive model that classifies startups as likely
   Deploy the final model using a lightweight web interface
 
 4. Methodology
-  4.1 Data Preprocessing
-
+4.1 Data Preprocessing
     Handling missing values
     Encoding categorical variables
     Feature scaling and normalization
     Removing outliers
 
-  4.2 Feature Engineering
-    Deriving new indicators from funding and operational metrics
-    Correlation analysis
-    Feature importance ranking
+4.2 Feature Engineering
+  Deriving new indicators from funding and operational metrics
+  Correlation analysis
+  Feature importance ranking
 
 4.3 Model Development
   The following classification algorithms were implemented and evaluated:
@@ -64,7 +63,5 @@ This project aims to build a predictive model that classifies startups as likely
   Matplotlib
   Seaborn
   XGBoost
-
-Streamlit
-
-Google Colab / Jupyter Notebook
+  Streamlit
+  Google Colab / Jupyter Notebook
